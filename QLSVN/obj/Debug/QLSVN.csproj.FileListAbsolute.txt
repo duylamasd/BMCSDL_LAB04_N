@@ -1,0 +1,14 @@
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\bin\Debug\QLSVN.exe.config
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.csprojResolveAssemblyReference.cache
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.ClassManager.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.Form1.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.Menu.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.Properties.Resources.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.ScoreManager.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.StudentManager.resources
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.csproj.GenerateResource.Cache
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\bin\Debug\QLSVN.exe
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\bin\Debug\QLSVN.pdb
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.exe
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.pdb
+D:\Tài liệu\Tài liệu của Lâm\Source code\BMCSDL_LAB04_N\QLSVN\obj\Debug\QLSVN.EmployeesManager.resources
